@@ -1,3 +1,58 @@
+Verse About Verse, I
+====================
+
+```
+people choose an architecture
+architecture determines process and tools
+process and tools shape the code
+the code feeds back on itself, its processes, and its tools
+but architecture cannot be changed without major upheaval
+so it's important to get architecture right
+
+As an example of how people decide on architecture
+suppose someone wants to make an iOS app
+this may not seem like an architectural decision
+but it determines many things
+
+you need to buy a mac, for one
+you need xcode
+you can't use just any CI tool
+
+if you need a server and a database, get ready
+for separate dev and prod environments
+since you really don't want people messing with prod
+
+perhaps you write the server in Rails
+where interdependencies parade
+at the foot of the all-shadowing database
+in such a world (according to its author)
+unit tests do not make sense
+you have to live with this
+and everything else
+
+finally, tools in place, the code arrives
+a shrunken thing with no freedom
+architecture-trammeled
+
+Uncle Bob says don't build shit like this
+says write your logic first, and frame it later
+but Early and Continuous are then our foes
+the world cannot love the gem until
+we trade all its potential for a brilliant edge
+
+we cannot gift unhulled logic
+except to each other
+yet
+
+can we invite the world
+to our unwalled xenial banquet?
+verse says sure
+why not?
+```
+
+Untitled Haiku
+==============
+
 ```
 The bang of a screen
 door. Barefoot in starlight we
